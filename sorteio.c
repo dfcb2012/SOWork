@@ -6,9 +6,7 @@
 
 void timeout(){
 n = n-1;
-
-
-
+printf("Hello World\n");
 }
 
 
